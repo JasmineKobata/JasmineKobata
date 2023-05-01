@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Jasmine! Software and Computer Engineer 👋
 
-<!--
-**JasmineKobata/JasmineKobata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently brushing up on my Java and C++
+- 🤔 I’m looking for help with dynamic programming
+- 💬 Ask me about anything!
+- 📫 How to reach me: jdirksen@gmail.com
+- 😄 Pronouns: she/her
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- C
+- C++
+- Java
+- Javascript
+- React
+- Redux
+- OpenGL
+- Ruby
+- Ruby on Rails
+- VHDL
+- Digital & Analog Circuit Design

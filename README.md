@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **jdirksen@gmail.com**
+- 📫 How to reach me **jdirksen317@gmail.com**
 
 - 😄 Pronouns **she/her**
 

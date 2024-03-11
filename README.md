@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasminekobata" alt="jasminekobata" /></a> </p>
 
-- 🌱 I’m currently brushing up on **my Java and C++**
+- 🌱 I’m currently learning **Unity and C#+**
 
 - 🤝 I’m looking for help with **dynamic programming**
 
